@@ -1,5 +1,7 @@
-# SvelteKit Starter
+# SvelteKit Project Kickstarter
+
+Kickstart your next SvelteKit + Tailwind CSS project.
 
 ```bash
-pnpm dlx degit mattcroat/kit-start
+npx degit mattcroat/kitstart
 ```
