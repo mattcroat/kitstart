@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/manrope';
+
+@theme {
+	--font-family-sans: 'Manrope Variable', monospace;
+}
