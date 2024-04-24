@@ -1,5 +1,5 @@
 {
-	"name": "kit-start",
+	"name": "kitstart",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
