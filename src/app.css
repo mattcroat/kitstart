@@ -1,6 +1,15 @@
-@import 'tailwindcss';
-@import '@fontsource-variable/manrope';
+@import 'https://unpkg.com/open-props';
+@import 'https://unpkg.com/open-props/normalize.min.css';
+@import 'https://unpkg.com/open-props/buttons.min.css';
+@import '@fontsource/atkinson-hyperlegible';
 
-@theme {
-	--font-family-sans: 'Manrope Variable', monospace;
+:root {
+	--font-system-ui: 'Atkinson Hyperlegible', sans-serif;
+	--bg-clr: oklch(24% 0.02 272);
+}
+
+body {
+	display: grid;
+	place-content: center;
+	background-color: var(--bg-clr);
 }
