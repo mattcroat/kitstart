@@ -1,6 +1,6 @@
-@import 'https://unpkg.com/open-props';
-@import 'https://unpkg.com/open-props/normalize.min.css';
-@import 'https://unpkg.com/open-props/buttons.min.css';
+@import "open-props/style";
+@import "open-props/normalize";
+@import "open-props/buttons";
 @import '@fontsource/atkinson-hyperlegible';
 
 :root {
