@@ -1,6 +1,6 @@
 # Kitstart
 
-Template for [Svelte](https://svelte.dev/) demos using default styles from [Open Props](https://open-props.style/).
+Svelte template to kick-start your next project.
 
 ```bash
 npx degit mattcroat/kitstart

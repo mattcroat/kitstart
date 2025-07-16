@@ -1,15 +1,6 @@
-@import "open-props/style";
-@import "open-props/normalize";
-@import "open-props/buttons";
 @import '@fontsource/atkinson-hyperlegible';
+@import 'tailwindcss';
 
 :root {
-	--font-system-ui: 'Atkinson Hyperlegible', sans-serif;
-	--bg-clr: oklch(24% 0.02 272);
-}
-
-body {
-	display: grid;
-	place-content: center;
-	background-color: var(--bg-clr);
+	--font-sans: 'Atkinson Hyperlegible', sans-serif;
 }
